@@ -1,7 +1,8 @@
 {
     "rust-analyzer.linkedProjects": [
         "./trait_study/Cargo.toml",
-        "./lifetime/Cargo.toml"
+        "./lifetime/Cargo.toml",
+        "./adder/Cargo.toml"
 
     ]
 }
