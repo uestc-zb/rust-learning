@@ -2,6 +2,7 @@
     "rust-analyzer.linkedProjects": [
         "./trait_study/Cargo.toml",
         "./lifetime/Cargo.toml",
+        "./minigrep/Cargo.toml",
         "./adder/Cargo.toml"
 
     ]
