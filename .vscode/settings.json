@@ -31,7 +31,7 @@
         "./iterator_study/Cargo.toml",
         "./iterator_study/Cargo.toml",
         "./iterator_study/Cargo.toml",
-        "./iterator_study/Cargo.toml",
+        "./ch17_oop/Cargo.toml",
         "./adder/Cargo.toml"
     ]
 }
