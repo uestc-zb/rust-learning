@@ -5,7 +5,7 @@
         "./minigrep/Cargo.toml",
         "./closures_study/Cargo.toml",
         "./closures_study/Cargo.toml",
-        "./closures_study/Cargo.toml",
+        "./ch15_box/Cargo.toml",
         "./add/Cargo.toml",
         "./ch14/Cargo.toml",
         "./iterator_study/Cargo.toml",
