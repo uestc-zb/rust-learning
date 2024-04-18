@@ -4,11 +4,11 @@
         "./lifetime/Cargo.toml",
         "./minigrep/Cargo.toml",
         "./closures_study/Cargo.toml",
+        "./closures_study/Cargo.toml",
+        "./closures_study/Cargo.toml",
+        "./add/Cargo.toml",
+        "./ch14/Cargo.toml",
         "./iterator_study/Cargo.toml",
-        "./closures_study/Cargo.toml",
-        "./closures_study/Cargo.toml",
-        "./closures_study/Cargo.toml",
-        "./closures_study/Cargo.toml",
         "./adder/Cargo.toml"
     ]
 }
