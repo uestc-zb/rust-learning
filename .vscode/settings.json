@@ -28,7 +28,7 @@
         "./iterator_study/Cargo.toml",
         "./iterator_study/Cargo.toml",
         "./iterator_study/Cargo.toml",
-        "./iterator_study/Cargo.toml",
+        "./hello_macro/Cargo.toml",
         "./ch19_feature/Cargo.toml",
         "./ch18_pattern/Cargo.toml",
         "./ch17_oop/Cargo.toml",
