@@ -1,0 +1,1 @@
+/home/star/project/rustLearning/ch2_12_module/target/debug/libch2_12_module.rlib: /home/star/project/rustLearning/ch2_12_module/src/front_of_house/hosting.rs /home/star/project/rustLearning/ch2_12_module/src/front_of_house.rs /home/star/project/rustLearning/ch2_12_module/src/lib.rs
